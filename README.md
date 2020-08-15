@@ -8,4 +8,7 @@ Primer proyecto ADA
 
 
  Fuction 1
+ 
+ 
+ 
  Fuction 2
